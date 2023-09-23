@@ -49,7 +49,7 @@ contract MyToken {
     // public variables here
     string public tokenname="NOBUDDY";
     string public tokenabbrv="NB";
-    uint public totalsupply=1000;
+    uint public totalsupply=2000;
     // mapping variable here
     mapping(address => uint)public balance;
     // mint function
